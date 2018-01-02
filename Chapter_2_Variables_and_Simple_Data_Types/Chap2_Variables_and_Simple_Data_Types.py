@@ -64,4 +64,4 @@ favorite_language = favorite_language.lstrip()
 # remove both right and left whitespace permanently by storing to a variable.
 print(favorite_language.strip())
 
-# Keep practicing
+# end of chapter 2 material. Ppcoming is exercises for chapter 2 that will be in seperate files.
