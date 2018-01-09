@@ -9,7 +9,8 @@ print("\nPizza overall, is one of my favorite foods!")
 
 
 #the initial copy of pizzas to friend_pizzas
-friend_pizzas = list(pizzas[:])
+#friend_pizzas = list(pizzas[:])
+friend_pizzas = pizzas[:]
 
 #using append function to add a new pizza to the original list pizzas
 pizzas.append('house special')
