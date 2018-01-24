@@ -4,6 +4,7 @@
 #name and their favorite number. For even more fun, poll a few friends and get
 #some actual data for your program.
 
+#storing each person's favorite number
 favorite_numbers = {
     'james': '7',
     'mary': '3',
@@ -11,17 +12,18 @@ favorite_numbers = {
     'patricia': '4',
     'michael': '5'}
 
+#Printing James favorite number
 print("James has a favorite number of: "
     +favorite_numbers['james'])
-
+#printing Mary's favorite number
 print("Mary has a favorite number of: "
     +favorite_numbers['mary'])
-
+#printing John's favorite number
 print("John has a favorite number of: "
     +favorite_numbers['john'])
-
+#printing Patricia's favorite number
 print("Patricia has a favorite number of: "
     +favorite_numbers['patricia'])
-
+#printing Michaeal's favorite number
 print("Michael has a favorite number of: "
     +favorite_numbers['michael'])
