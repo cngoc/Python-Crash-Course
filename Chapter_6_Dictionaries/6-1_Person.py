@@ -3,7 +3,9 @@
 # they live. You should have keys such as first_name, last_name,
 # age, and city. Print each piece of information stored in your dictionary.
 
+#storing information on tsukimi kurashita
 person = {'first_name': 'tsukimi', 'last_name': 'kurashita', 'age': '18', 'city': 'tokyo'}
 
+#printing information stored in person into several sentences.
 print("The main character of Princess Jellyfish (Kuragehime) is " + person['first_name'].title() + " " + person['last_name'].title() +".")
 print("She is " + str(person['age']) + " and lives in " + person['city'].title() + ".")
