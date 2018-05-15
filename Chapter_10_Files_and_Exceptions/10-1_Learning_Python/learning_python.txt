@@ -1,5 +1,0 @@
-In Python you can perform simple arithmetic.
-In Python you display text to a screen.
-In Python you can create a list.
-In Python you can use functions.
-In Python you can accept user input.
