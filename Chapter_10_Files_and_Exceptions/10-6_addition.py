@@ -1,5 +1,4 @@
 print("Give me two numbers, and I'll add them.")
-print("Enter 'q' to quit")
 
 first_num = input("\nFirst number: ")
 second_num = input("Second number: ")
