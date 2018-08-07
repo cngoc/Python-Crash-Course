@@ -2,7 +2,7 @@
 #Write a separate program that reads in this value and prints the message, "I know your favorite number! It's ...!"
 import json
 
-fav_num = input("What is your favorite number? ")
+favNum = input("What is your favorite number? ")
 filename = 'favNum.json'
 with open(filename, 'w') as f_obj:
 	json.dump(favNum, f_obj)
